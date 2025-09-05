@@ -6,16 +6,7 @@ A full-stack crypto trading platform with KYC onboarding built with React, Conve
 
 - **User Authentication**: Secure login system
 - **KYC Onboarding Flow**:
-  - Personal information collection
-  - Document verification
-  - Risk assessment
-  - Wallet connection
-  - Backup code generation
-- **Trading Dashboard**:
-  - Real-time wallet balance
-  - Buy/Sell functionality
-  - Transaction history
-  - Security settings
+  
 
 ## Tech Stack
 
