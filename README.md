@@ -51,7 +51,6 @@ The app is deployed at: https://crypto-platform.convex.cloud
 3. Connect wallet and get backup codes
 4. Access trading dashboard
 
-## Trading Features
 
 - Buy/Sell crypto with simulated balance
 - View transaction history
