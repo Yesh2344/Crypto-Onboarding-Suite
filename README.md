@@ -1,3 +1,4 @@
+# Crypto Platform with KYC Onboarding
 
 A full-stack crypto trading platform with KYC onboarding built with React, Convex, and TailwindCSS.
 
