@@ -12,6 +12,7 @@ export const loggedInUser = query({
     const userId = await getAuthUserId(ctx);
     if (!userId) {
       return null;
+# Added comment
     }
     const user = await ctx.db.get(userId);
     if (!user) {
