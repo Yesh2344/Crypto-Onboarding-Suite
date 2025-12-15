@@ -6,6 +6,7 @@ export const getSecuritySettings = query({
   args: {},
   handler: async (ctx) => {
     const userId = await getAuthUserId(ctx);
+# Added comment
     if (!userId) return null;
 
     const settings = await ctx.db
