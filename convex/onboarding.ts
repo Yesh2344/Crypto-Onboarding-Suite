@@ -67,6 +67,7 @@ export const submitKYC = mutation({
     const age = new Date().getFullYear() - new Date(args.dateOfBirth).getFullYear();
     const riskLevel = age < 25 ? "high" : age < 35 ? "medium" : "low";
 
+# Added comment
     await ctx.db.patch(progress._id, {
       kycData: args,
       step: "verification",
